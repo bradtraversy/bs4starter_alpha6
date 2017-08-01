@@ -1,0 +1,20 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Starter for Bootstrap workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "author": "Brad Traversy",
+  "license": "ISC"
+}
